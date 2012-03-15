@@ -3,6 +3,17 @@ This document is a work-in-progress spesification for botylicious. It's meant to
 
 Botylicious is (will eventually be) an userfriendly, lowadmin, minimal configuration IRC bot for hassle free administration of IRC channels.
 
+== Requirements ==
+** devtools **
+- bug/feature tracker (agile, anon-input)
+
+== isses ==
+** strategical **
+- Language
+- Framework
+- Coding standards/Criteria for implementing new code into master
+- Releaseplan strategy
+
 == Core functionality ==
 ** Modularity **
 The bot must consist of a lighweight core that lets the admin easily plug functionality in and out as (s)he sees fit. Modules must be integrades in such a way that it is a minimal effort to write new ones expanding Botylicious functionality.

@@ -6,6 +6,19 @@ Botylicious is (will eventually be) an userfriendly, lowadmin, minimal configura
 
 For techincal stuff, see tech.md
 
+== Requirements ==
+Devtools
+--------
+	- bug/feature tracker (agile, anon-input)
+
+== Issues ==
+Strategical
+-----------
+	- Language
+	- Framework
+	- Coding standards/Criteria for implementing new code into master
+	- Releaseplan strategy
+
 Core functionality
 ==================
 Modularity
